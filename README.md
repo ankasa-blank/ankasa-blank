@@ -8,6 +8,14 @@ im developer experimentalist, newbie, nevermind.
 <img src="https://raw.githubusercontent.com/ankasa-blank/ankasa-blank/main/from-PixAI-1978618290782109923-⚔️.png"/>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;AR+Explorer;System+Designer;Still+Learning" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankasa-blank&show_icons=true&theme=tokyonight"/>
+</p>
+
 
 
 <!--## Hi there 👋
