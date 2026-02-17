@@ -1,8 +1,12 @@
-<h1 align="center">Hi all 👋</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+all+👋;Unity+Game+Developer+Here;I'm+still+learn" />
+</p>
+
 
 <p align="center">
-im developer experimentalist, newbie, always learning, and stil newbie.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=400&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=im+developer+experimentalist;newbie;always+learning;still+newbie" />
 </p>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ankasa-blank/ankasa-blank/main/from-PixAI-1978618290782109923-⚔️.png"/>
