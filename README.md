@@ -5,7 +5,7 @@ im developer experimentalist, newbie, nevermind.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/username/repo/main/from-PixAI-1978618290782109923-⚔️.png"/>
+<img src="https://raw.githubusercontent.com/ankasa-blank/repo/main/from-PixAI-1978618290782109923-⚔️.png"/>
 </p>
 
 
