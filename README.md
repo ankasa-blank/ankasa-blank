@@ -13,8 +13,9 @@ im developer experimentalist, newbie, always learning, and stil newbie.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankasa-blank&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankasa-blank&show_icons=true&theme=tokyonight"/>
 </p>
+
 
 
 
