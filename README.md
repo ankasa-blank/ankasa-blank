@@ -1,7 +1,7 @@
 <h1 align="center">Hi all 👋</h1>
 
 <p align="center">
-im developer experimentalist, newbie, nevermind.
+im developer experimentalist, newbie, always learning, and stil newbie.
 </p>
 
 <p align="center">
