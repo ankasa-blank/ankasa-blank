@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=400&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=im+developer+experimentalist;newbie;always+learning;still+newbie" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=im+developer+experimentalist;always+learning;building+strange+things" />
 </p>
 
 
