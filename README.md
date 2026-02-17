@@ -18,6 +18,8 @@ im developer experimentalist, newbie, nevermind.
 
 
 
+
+
 <!--## Hi there 👋
 <img src="LINK_GIF_KAMU" width="500"/>
 **ankasa-blank/ankasa-blank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
